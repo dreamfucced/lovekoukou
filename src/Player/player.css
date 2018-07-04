@@ -1,0 +1,16 @@
+.player{
+    background-color: rgb(205, 223, 240);
+    height:40px;
+    width:200px;
+    margin-top: 300px;
+    border-radius: 15px;
+    transform: translate(-50%,-50%)
+}
+.start{
+    background-color: aliceblue;
+    float:left;
+}
+.musicfont{
+    float:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
